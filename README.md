@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jennifer Umana</h1>
+<h1 align="center">Jennifer Umana</h1>
 <h3 align="center">Software Engineer | Always Building | Relentless Learner</h3>
 
 
